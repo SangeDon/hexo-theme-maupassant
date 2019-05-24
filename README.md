@@ -1,6 +1,6 @@
 # hexo-theme-maupassant
 
-maupassant/大道至简 hexo 主题来自 https://github.com/pagecho/maupassant.git
+maupassant/大道至简 hexo 主题来自 https://github.com/tufu9441/maupassant-hexo
 
 ## 针对原主题进行了以下修改
 
