@@ -1,6 +1,6 @@
 # hexo-theme-maupassant
 
-maupassant/大道至简 hexo 主题来自 https://github.com/pagecho/maupassant.git
+maupassant/大道至简 hexo 主题来自 https://github.com/tufu9441/maupassant-hexo
 
 ## 针对原主题进行了以下修改
 
@@ -10,8 +10,8 @@ maupassant/大道至简 hexo 主题来自 https://github.com/pagecho/maupassant.
   - 修改了原搜索结果展示部分js
   - 增加了搜索模态框，使其居中并自适应不同尺寸的屏幕
 
-![page](/Users/dongliangqiong/Documents/Blog/hexo-theme-maupassant/hexo-theme-maupassant/page.png)
+![page](https://github.com/SangeDong/hexo-theme-maupassant/blob/master/page.png)
 
 
 
-![mini](/Users/dongliangqiong/Documents/Blog/hexo-theme-maupassant/hexo-theme-maupassant/mini.jpeg)
+![mini](https://github.com/SangeDong/hexo-theme-maupassant/blob/master/mini.jpeg)
